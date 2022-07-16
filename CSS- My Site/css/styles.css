@@ -1,0 +1,104 @@
+body {
+  color: #40514e;
+  font-family: "Merriweather";
+  font-size: 1em;
+  margin: 0;
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+}
+hr{
+border-style: dotted none none none;
+border-color: grey;
+border-width: 5px;
+height: 5px;
+width: 3.5%;
+margin: 50px auto 50px auto;}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Dancing Script";
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+p{
+  line-height: 50px;
+}
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66bfbf;
+}
+h3{
+  color: #11999e;
+  font-size: 1.5rem;
+}
+a{
+  color: #11999e;
+  margin: 10px 30px 10px 30px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-image{
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+.altskill-image{
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+.top-container {
+  background-color: #9DD6DF;
+  position: relative;
+  padding-top: 200px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  margin-bottom: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.trademark{
+  color: #eaf6f6;
+  margin: 0;
+  padding: 30px;
+  padding-bottom: 3px;
+  font-size: 0.75em;
+}
+.button{
+  background-color: #54BAB9;
+  border-color: #18978F;
+  color: white;
+  margin-bottom: 50px;
+  padding: 30px;
+  border-radius: 8px;
+}
+.button:hover{
+  background-color: #BD4291;
+  color: #F6C6EA;
+  border-color: #816797;
+}
+.courier-cat{
+  margin: 50px auto 20px auto;
+}
